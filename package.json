@@ -1,0 +1,8 @@
+{
+  "name": "yt-iframe-noremote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KentoNishi/yt-iframe-noremote.git",
+  "author": "Kento Nishi <kento24gs@outlook.com>",
+  "license": "MIT"
+}
